@@ -10,7 +10,7 @@ function App() {
       </div>
       <div className="footer-info">
         <a target="_blank" href="">
-          My Weather App
+          A Weather App by Ankit Gaurav
         </a>{" "}
       </div>
     </React.Fragment>
